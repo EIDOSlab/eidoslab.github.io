@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Perfusion Maps
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: Perfusion Maps
   subtitle: Graphic Design
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
@@ -15,4 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: January 2017
 - Client: Explore
 - Category: Graphic Design
-

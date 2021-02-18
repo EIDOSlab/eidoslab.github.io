@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Lungs
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt: 
+alt:
 
 caption:
-  title: Finish
+  title: Lungs
   subtitle: Identity
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
@@ -15,4 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: January 2017
 - Client: Finish
 - Category: Identity
-

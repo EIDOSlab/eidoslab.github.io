@@ -1,32 +1,32 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    #title: Welcome to our Studio!
+    text: EIDOSlab
+    #button: Tell Me More
+    #buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Research"
+    #text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Image processing"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Computer vision"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-laptop
+      - title: "Virtual reality"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: "Our latest works"
     section: portfolio
-    
+
 
 timeline:
-    title: "About" 
+    title: "About"
     text: "Lorem ipsum timeline"
     section: timeline
     events:
@@ -34,25 +34,25 @@ timeline:
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
-        alt: 
+        alt:
         align: left
       - title: "An Agency is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
-        alt: 
+        alt:
         align: right
       - title: "Jekyll Theme is created"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-        #align: #default is left       
+        #align: #default is left
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
-        alt: 
+        alt:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
@@ -63,22 +63,28 @@ about:
 
 clients:
     section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    max-height: 500px
+    horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
+      - title: "National Institute of Informatics - NII (Tokyo)"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+        logo: assets/img/clients/nii.gif
+      - title: "Istituto Superiore Mario Boella - ISMB"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+        logo: assets/img/clients/ismb.jpg
+      - title: "Multimedia team at TELECOM ParisTech"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+        logo: assets/img/clients/tpt.png
+      - title: "RAI Research - CRIT"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
+        logo: assets/img/clients/crit.png
+      - title: "SISVEL Technology"
+        url: nope
+        logo: assets/img/clients/sisvel.png
+      - title: "TINY BULLS Studios"
+        url: nope
+        logo: assets/img/clients/tinybull.png
+
 team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -115,17 +121,17 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter"  
+        icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com

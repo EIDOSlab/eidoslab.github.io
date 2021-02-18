@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Covid
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
-alt: 
+alt:
 
 caption:
-  title: Lines
+  title: Covid
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
@@ -15,4 +15,3 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: October 2019
 - Client: Lines
 - Category: Branding
-
