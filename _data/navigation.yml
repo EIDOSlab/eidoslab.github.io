@@ -3,13 +3,16 @@ nav:
     section: services
 
   - title: "Projects"
-    section: projects
+    section: portfolio
 
   - title: "About"
     section: timeline
 
   - title: "Team"
     section: team
+
+  - title: "Collaborations"
+    section: clients
 
   - title: "Contact"
     section: contact

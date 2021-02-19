@@ -25,8 +25,7 @@ portfolio:
     section: portfolio
 
 timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "Events"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
@@ -55,15 +54,20 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
+thesis:
+  title: "Thesis proposals"
+  section: thesis
+
 about:
-    title: "About Us"
-    text: "our story"
+    title: "Events"
+    #text: "our story"
     section: about
 
 clients:
+    title: "Collaborations"
     section: clients
     max-height: 500px
-    horizontal-scrolling: "no" #"yes/no"
+    horizontal-scrolling: "no"
     list:
       - title: "National Institute of Informatics - NII (Tokyo)"
         url: https://github.com/raviriley/agency-jekyll-theme
@@ -85,13 +89,13 @@ clients:
         logo: assets/img/clients/tinybull.png
 
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Members"
+    #text: "Lorem ipsum dolor sit amet consectetur."
+    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Marco Grangetto"
+        role: "Coordinator"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -100,9 +104,10 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+
+      - name: "Davide Cavagnino"
+        role: "Member"
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,9 +115,131 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+
+      - name: "Maurizio Lucenteforte"
+        role: "Member"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Attilio Fiandrotti"
+        role: "Member"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Enzo Tartaglione"
+        role: "Member"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Nello Balossino"
+        role: "Member"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Andrea Bragagnolo"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Andrea Bragagnolo"
+        role: "Daniele Perlo"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Valeria Proietti Dante"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Riccardo Renzulli"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Mirko Zaffaroni"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Carlo Alberto Barbano"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-github
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Andrea Bragagnolo"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Ayesha Hoor Chaudhry Hafiza"
+        role: "PhD student"
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -123,7 +250,7 @@ team:
 
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "eidoslab@di.unito.it"
     section: contact
 
 footer:
