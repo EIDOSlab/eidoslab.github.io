@@ -1,9 +1,9 @@
 nav:
-  - title: "Services"
+  - title: "Research"
     section: services
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "Projects"
+    section: projects
 
   - title: "About"
     section: timeline
