@@ -7,16 +7,17 @@ header:
 services:
     title: "Research"
     #text: "Lorem ipsum"
+    text: "The lab was founded in 1985 when the new course of Image Processing was included for the first time in the curriculum of the Master Degree in Information Science. In 1990 the lab was named in honor to Giovanni Tamburelli, professor at the Turin University. In the course of the years the lab has evolved along with the technological progress. Nowadays the lab constitutes the research hub of the activities of the EIDOS group in the following areas of image processing and computer graphics:"
     section: services
     list:
       - title: "Image processing"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "The research activities consist in the design of image processing algorithms for restoration, segmentation, feature extraction and watermarking for data protection and integrity verification. The fields of applications are image and video coding (both 2D and 3D), cultural heritage, and biomedical imaging."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Computer vision"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "The research activities are devoted to the development of computer vision algorithms ranging from the design of interactive interfaces for 3D graphics applications, e.g. videogames, to industrial vision techniques for object recognition and biometric and forensic applications for identity verification and attribution."
         icon: fas fa-brain
       - title: "Virtual reality"
-        desc: "Your description here, full **Markdown** support"
+        desc: "In this area the lab goal is to develop serious games using virtual reality for learning, training, and medical rehabilitation. Simulation in a virtual world allows simple interaction with objects that in the real world are far away in space and/or in time. In this area all previous competences are glued together to design innovative and complex virtual and augmented reality systems using state of the art graphical and physical simulation library."
         icon: fas fa-vr-cardboard
 
 portfolio:
