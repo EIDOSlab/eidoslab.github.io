@@ -172,8 +172,8 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-      - name: "Andrea Bragagnolo"
-        role: "Daniele Perlo"
+      - name: "Daniele Perlo"
+        role: "PhD student"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -227,7 +227,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-      - name: "Andrea Bragagnolo"
+      - name: "Ayesha Hoor Chaudhry Hafiza"
         role: "PhD student"
         image: assets/img/team/1.jpg
         social:
@@ -238,8 +238,8 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-      - name: "Ayesha Hoor Chaudhry Hafiza"
-        role: "PhD student"
+      - name: "Sergio Rabellino"
+        role: "Technician"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
