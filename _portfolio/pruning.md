@@ -1,4 +1,5 @@
 ---
+cat: deep learning
 title: Pruning
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg

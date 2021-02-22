@@ -5,6 +5,7 @@ image: assets/img/proposals/gan_hp.png
 alt: Shirts on a hanger
 contact:
   - carlo.barbano@unito.it
+  - enzo.tartaglione@unito.it
   - marco.grangetto@unito.it
   - eidoslab@di.unito.it
 ---

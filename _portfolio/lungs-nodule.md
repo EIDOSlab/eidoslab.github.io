@@ -1,11 +1,12 @@
 ---
+cat: health
 title: Lungs
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt:
 
 caption:
-  title: Lungs
+  title: Lung Nodule Segmentation
   subtitle: Identity
   thumbnail: assets/img/portfolio/uc4-thumbnail2.jpg
 ---

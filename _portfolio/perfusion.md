@@ -1,17 +1,18 @@
 ---
-title: Covid
+cat: health
+title: Perfusion Maps
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
-alt:
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+alt: Keep Exploring
 
 caption:
-  title: Covid
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/corda-thumbnail_o.jpg
+  title: Perfusion Maps Prediction
+  subtitle: Graphic Design
+  thumbnail: assets/img/portfolio/uc3-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: January 2017
+- Client: Explore
+- Category: Graphic Design

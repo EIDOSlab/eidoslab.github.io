@@ -28,8 +28,10 @@ analytics:
   google: #Google Analytics tracking code here
 
 collections:
-  - portfolio
-  - master
+  portfolio:
+    sort_by: cat
+
+  master:
   #master:
 
 markdown: kramdown
