@@ -1,0 +1,29 @@
+---
+layout: page
+title: Proposals
+background: grey
+---
+
+<h3> MASTER THESIS PROPOSALS</h3>
+<br/>
+{% for thesis in site.master %}
+<h6>{{ thesis.title }}</h6>
+<h7><i>Type:</i> {{ thesis.type }}</h7>
+<br/>
+<h7>
+  <i>Contact: </i>
+
+  {%for contact in thesis.contact %}
+  <a href='mailto:{{ contact }}'>{{ contact }}</a>
+  {% endfor %}
+</h7>
+
+<p>{{ thesis.content  | markdownify }}</p>
+<div class="row" style="padding: 20px; padding-left: 50px; padding-right: 50px">
+  <img class="img-fluid" src="{{ thesis.image }}"></img>
+</div>
+
+{% endfor %}
+
+<br/><br/>
+<h3>PHD THESIS PROPOSALS</h3>

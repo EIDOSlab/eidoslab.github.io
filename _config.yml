@@ -28,7 +28,9 @@ analytics:
   google: #Google Analytics tracking code here
 
 collections:
-  portfolio:
+  - portfolio
+  - master
+  #master:
 
 markdown: kramdown
 

@@ -55,10 +55,6 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-thesis:
-  title: "Thesis proposals"
-  section: thesis
-
 about:
     title: "Events"
     #text: "our story"
@@ -91,8 +87,6 @@ clients:
 
 team:
     title: "Members"
-    #text: "Lorem ipsum dolor sit amet consectetur."
-    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Marco Grangetto"
@@ -267,6 +261,8 @@ footer:
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+
+
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
