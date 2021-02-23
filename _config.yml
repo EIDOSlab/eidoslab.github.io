@@ -31,7 +31,7 @@ collections:
   portfolio:
     sort_by: cat
     output: true
-    permalink: /projects/:name
+    permalink: :name
 
   master:
   #master:

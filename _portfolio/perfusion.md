@@ -7,12 +7,12 @@ cat: health
 
 caption:
   title: Perfusion Maps Prediction
-  subtitle: Graphic Design
+  #subtitle: Graphic Design
   thumbnail: assets/img/portfolio/uc3-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+# Perfusion Maps Prediction
+
+**References:**
+
+[1] Gava, U. A., D'Agata, F., Tartaglione, E., Grangetto, M., Bertolino, F., Santonocito, A., ... & Bergui, M. (2021). Neural Network-derived perfusion maps: a Model-free approach to computed tomography perfusion in patients with acute ischemic stroke. arXiv preprint arXiv:2101.05992.
