@@ -1,9 +1,9 @@
 ---
+layout: page
+title: Colorectal Polyps Characterization
+background: grey
 cat: health
-title: Colorectal polyps characterization
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+
 
 caption:
   title: Colorectal Polyps Characterization

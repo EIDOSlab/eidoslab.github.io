@@ -30,6 +30,8 @@ analytics:
 collections:
   portfolio:
     sort_by: cat
+    output: true
+    permalink: /projects/:name
 
   master:
   #master:

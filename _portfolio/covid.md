@@ -1,9 +1,8 @@
 ---
+layout: page
+title: COVID-19 Detection from CXRs
+background: grey
 cat: health
-title: Covid-19
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
-alt:
 
 caption:
   title: Covid-19 Detection from CXRs

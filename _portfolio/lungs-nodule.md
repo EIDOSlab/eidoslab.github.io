@@ -1,9 +1,8 @@
 ---
+layout: page
+title: Lung Nodule Segmentation
+background: grey
 cat: health
-title: Lungs
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt:
 
 caption:
   title: Lung Nodule Segmentation
