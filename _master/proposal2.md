@@ -1,7 +1,6 @@
 ---
 title: Watermarking trained deep neural networks
 type: Research
-image: assets/img/proposals/gan_hp.png
 alt: Shirts on a hanger
 contact:
   - enzo.tartaglione@unito.it
