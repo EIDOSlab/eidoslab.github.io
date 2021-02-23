@@ -49,22 +49,22 @@ clients:
     horizontal-scrolling: "no"
     list:
       - title: "National Institute of Informatics - NII (Tokyo)"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: http://www.nii.ac.jp/en/
         logo: assets/img/clients/nii.gif
       - title: "Istituto Superiore Mario Boella - ISMB"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: http://www.ismb.it/
         logo: assets/img/clients/ismb.jpg
       - title: "Multimedia team at TELECOM ParisTech"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: http://www.telecom-paristech.fr/
         logo: assets/img/clients/tpt.png
       - title: "RAI Research - CRIT"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: http://www.crit.rai.it/
         logo: assets/img/clients/crit.png
       - title: "SISVEL Technology"
-        url: nope
+        url: https://www.sisvel.com/
         logo: assets/img/clients/sisvel.png
       - title: "TINY BULLS Studios"
-        url: nope
+        url: http://www.tinybullstudios.com/
         logo: assets/img/clients/tinybull.png
 
 team:
@@ -187,7 +187,7 @@ team:
         image: assets/img/team/1.jpg
         social:
           #- url: https://twitter.com
-          #  icon: fab fa-twitter
+          #  icon: fab fa-twitterhttp://www.nii.ac.jp/en/
           #- url: https://github.com/carloalbertobarbano
           #  icon: fab fa-github
           #- url: https://www.linkedin.com/in/carlo-alberto-barbano-8152171ba/
