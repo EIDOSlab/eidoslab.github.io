@@ -11,7 +11,7 @@ caption:
   thumbnail: assets/img/portfolio/valley_watermark.png
 ---
 
-# Perfusion Maps Prediction
+# Delving in the loss landscape to embed robust watermarks into neural networks
 
 In the last decade the use of artificial neural networks (ANNs) in many fields like image processing or speech recognition has become a common practice because of their effectiveness to solve complex tasks. However, in such a rush, very little attention has been paid to security aspects. In this work we explore the possibility to embed a watermark into the ANN parameters.
 We exploit model redundancy and adaptation capacity to lock a subset of its parameters to carry the watermark sequence. The watermark can be extracted in a simple way to claim copyright on models but can be very easily attacked with model fine-tuning.
