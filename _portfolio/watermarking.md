@@ -2,7 +2,7 @@
 layout: page
 title: Watermarking deep neural networks
 background: grey
-cat: health
+cat: deep learning
 
 
 caption:
