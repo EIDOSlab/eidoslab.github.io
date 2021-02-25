@@ -117,14 +117,14 @@ team:
 
       - name: "Enzo Tartaglione"
         role: "Member"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/tarta.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/in/enzo-tartaglione-490950a2
+            icon: fab fa-linkedin-in
 
       - name: "Nello Balossino"
         role: "Member"
