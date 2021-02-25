@@ -117,7 +117,7 @@ team:
 
       - name: "Enzo Tartaglione"
         role: "Member"
-        image: assets/img/team/tarta.jpg
+        image: assets/img/team/tarta.png
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
