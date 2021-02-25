@@ -18,8 +18,6 @@ Deep Neural Networks (DNNs) can solve challenging tasks thanks to complex stacks
 
 * **Structured**  strategies aim  at  pruning  parameters  from  the  network  yet  with  a  constraint  on  the  resulting topology.  For  example  SeReNe  (Sensitivity-based  Regularization  of  Neurons) is  a  method  for  learning sparse  topologies  with  a  structure,  exploiting  neural  sensitivity  as  a  regularizer.  Here,  the  sensitivity  of  a neuron  is  defined  as  the variation  of  the  network  output  with  respect  to  the  variation  of  the  activity  of  the neuron.  The  lower  the  sensitivity  of  a  neuron,  the  less  the  network  output  is  perturbed  if  the  neuron  output changes. This term is included in the cost function as a regularization term: in such way, SeReNe is able to prune entire neurons at the cost of a somewhat lower pruning ratio.
 
-
-
 **References:**
 
 [1] Tartaglione, E., Lepsøy, S., Fiandrotti, A., & Francini, G. (2018). Learning Sparse Neural Networks via Sensitivity-Driven Regularization. NeurIPS.
