@@ -128,7 +128,7 @@ team:
           - url: https://www.linkedin.com/in/enzo-tartaglione-490950a2
             icon: fab fa-linkedin-in
           - url: https://orcid.org/0000-0003-4274-8298
-            icon: fab fa-orcid
+            icon: fab fa-orcid-id
 
       - name: "Nello Balossino"
         role: "Member"
