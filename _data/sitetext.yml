@@ -188,14 +188,16 @@ team:
 
       - name: "Carlo Alberto Barbano"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/carlo.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitterhttp://www.nii.ac.jp/en/
-          #- url: https://github.com/carloalbertobarbano
-          #  icon: fab fa-github
-          #- url: https://www.linkedin.com/in/carlo-alberto-barbano-8152171ba/
-          #  icon: fab fa-linkedin-in
+          - url: https://github.com/carloalbertobarbano
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/carlo-alberto-barbano-8152171ba/
+            icon: fab fa-linkedin-in
+          - url: https://orcid.org/0000-0001-9512-0440
+            icon: fab fa-orcid
 
       - name: "Ayesha Hoor Chaudhry Hafiza"
         role: "PhD student"
