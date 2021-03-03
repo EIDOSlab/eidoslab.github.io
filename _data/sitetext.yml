@@ -73,7 +73,7 @@ team:
     people:
       - name: "Marco Grangetto"
         role: "Coordinator"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/grangetto.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
