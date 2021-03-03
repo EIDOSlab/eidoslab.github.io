@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Lung Nodule Segmentation
+title: Lung Nodules Segmentation
 background: grey
 cat: health
 
 caption:
-  title: Lung Nodule Segmentation
+  title: Lung Nodules Segmentation
   #subtitle: Identity
   thumbnail: assets/img/portfolio/uc4-thumbnail2.jpg
 ---
 
-# Lung Nodule Segmentation
+# Lung Nodules Segmentation
 
 **<u>[Read the news on the DeepHealth newsletter](https://us4.campaign-archive.com/?u=34652ffcbee58fbd682ac9529&id=389e69fc8c)</u>**
 
