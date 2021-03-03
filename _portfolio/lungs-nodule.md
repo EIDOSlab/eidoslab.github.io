@@ -12,7 +12,7 @@ caption:
 
 # Lung Nodules Segmentation
 
-**<u>[Read the news on the DeepHealth newsletter](https://us4.campaign-archive.com/?u=34652ffcbee58fbd682ac9529&id=389e69fc8c)</u>**
+**[Read the news on the DeepHealth newsletter](https://us4.campaign-archive.com/?u=34652ffcbee58fbd682ac9529&id=389e69fc8c)**
 
 On January 12th, 2021 at 15:00, Marco Grangetto together with the UNITO team (Marco Aldinucci, Barbara Cantalupo, Iacopo Colonnelli, Riccardo Renzulli, Enzo Tartaglione) presented the demo “Lung nodules segmentation in CT scans by DeepHealth toolkit” at ICPR2020.
 
