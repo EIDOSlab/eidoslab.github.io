@@ -42,7 +42,7 @@ management:
 
 The Pathology Unit of UNITO will provide a labeled set of whole-slide biopsy images that will be
 exploited by machine learning experts in the team for models training and testing on DeepHealth ODH
-platform (PF5).
+platform (PF5). {%cite barbano2021unitopatho perlo2021dysplasia unitopatho %}
 
 **Data**
 
@@ -50,8 +50,4 @@ You can access the dataset at <a href='https://ieee-dataport.org/open-access/uni
 
 **References**:
 
-[1] Barbano, C. A., Perlo, D., Tartaglione, E., Fiandrotti, A., Bertero, L., Cassoni, P., & Grangetto, M. (2021). UniToPatho, a labeled histopathological dataset for colorectal polyps classification and adenoma dysplasia grading. arXiv preprint arXiv:2101.09991.
-
-[2] Perlo, D., Tartaglione, E., Bertero, L., Cassoni, P., & Grangetto, M. (2021). Dysplasia grading of colorectal polyps through CNN analysis of WSI. arXiv preprint arXiv:2102.05498.
-
-[3] Luca Bertero, Carlo Alberto Barbano, Daniele Perlo, Enzo Tartaglione, Paola Cassoni, Marco Grangetto, Attilio Fiandrotti, Alessandro Gambella, Luca Cavallo. (2021). UNITOPATHO. IEEE Dataport. https://dx.doi.org/10.21227/9fsv-tm25
+{% bibliography --cited %}
