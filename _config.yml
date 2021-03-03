@@ -24,6 +24,9 @@ logo:     #optional, defaults to site title
   path: assets/img/eidos_logo.png
   # height: 60 #height in px, defaults to 52px
 
+plugins:
+  - jekyll-scholar
+
 analytics:
   google: #Google Analytics tracking code here
 
