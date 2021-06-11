@@ -1,7 +1,7 @@
 ---
 title: Reinforcement learning with transfer learning on self-driving toy car
 type: Research
-image: assets/img/proposals/car.png
+image: assets/img/proposals/car.jpg
 alt: Shirts on a hanger
 contact:
   - enzo.tartaglione@unito.it
