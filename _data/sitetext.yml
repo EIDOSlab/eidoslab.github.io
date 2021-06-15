@@ -143,7 +143,7 @@ team:
 
       - name: "Andrea Bragagnolo"
         role: "PhD student"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/andrea.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
