@@ -8,7 +8,7 @@ cat: virtual reality
 caption:
   title: Virtual reality simulations in our CAVE
   #subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/cave_2021.jpg
+  thumbnail: assets/img/portfolio/CAVE_2021.jpg
 ---
 
 # 3D simulation with CAVE technology
